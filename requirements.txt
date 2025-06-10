@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+accelerate
+sacrebleu 
+sacremoses 
+evaluate
+nltk
+numpy
+scikit-learn
+sentence-transformers
+huggingface_hub
+rouge_score
